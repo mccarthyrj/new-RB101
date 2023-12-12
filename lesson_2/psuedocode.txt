@@ -1,0 +1,35 @@
+one:
+given two integers 
+Add first integer to the second
+return the sum
+
+two:
+given an array of strings
+iterate over that array
+concatenate each index to the next
+return the result of the concatenated strings
+
+three:
+given an array of integers
+iterate over the array
+store every other integer starting at the first index into a new array
+return the new array
+
+four:
+given a string
+iterate over the string
+identify matching characters
+count occurrence of a specific character
+return index number of the third occurrence of a character
+return nil if character occurs less than 3 times
+
+five:
+given two arrays
+create new empty array
+initialize an iterator
+push first array at index equal to iterator into new array
+push second array at index equal to iterator into new array
+reassign iterator to iterator + 1
+return new array
+
+six:
